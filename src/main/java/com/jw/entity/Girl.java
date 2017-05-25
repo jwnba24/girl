@@ -16,7 +16,7 @@ public class Girl {
     private Integer id;
     private String cupsize;
 
-    @Min(value = 18,message = "未成年少女禁止入内")
+    @Min(value = 18,message = "未成年少女禁止入内hahhahahah")
     private Integer age;
 
     public Integer getId() {
